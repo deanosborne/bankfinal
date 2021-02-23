@@ -5738,11 +5738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imdea\\source\\repos\\a3\\AccountTests\\AccountTests.csproj",
+      "projectUniqueName": "C:\\Users\\imdea\\source\\repos\\bankfinal\\AccountTests\\AccountTests.csproj",
       "projectName": "AccountTests",
-      "projectPath": "C:\\Users\\imdea\\source\\repos\\a3\\AccountTests\\AccountTests.csproj",
+      "projectPath": "C:\\Users\\imdea\\source\\repos\\bankfinal\\AccountTests\\AccountTests.csproj",
       "packagesPath": "C:\\Users\\imdea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imdea\\source\\repos\\a3\\AccountTests\\obj\\",
+      "outputPath": "C:\\Users\\imdea\\source\\repos\\bankfinal\\AccountTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5763,8 +5763,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\imdea\\source\\repos\\a3\\a3\\a3.csproj": {
-              "projectPath": "C:\\Users\\imdea\\source\\repos\\a3\\a3\\a3.csproj"
+            "C:\\Users\\imdea\\source\\repos\\bankfinal\\a3\\a3.csproj": {
+              "projectPath": "C:\\Users\\imdea\\source\\repos\\bankfinal\\a3\\a3.csproj"
             }
           }
         }
