@@ -48,7 +48,7 @@ namespace a3
             return null;
         }
         //Remover for Customer
-        public void Remove(string name, Customer c)
+        public void Remove(string name)
         {
             AllCustomers.Remove(Finduser(name));
         }
@@ -64,7 +64,7 @@ namespace a3
                 lv.Items.Add(new ListViewItem(items));
                 if (lv.Items.ContainsKey(d[0].ToString()))
                 {
-                    MessageBox.Show("Dupe");
+                    MessageBox.Show("This is a duplicate netry");
                 }
                 else
                 {

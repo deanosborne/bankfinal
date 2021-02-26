@@ -86,7 +86,7 @@ namespace a3
         private void remove_btn_Click(object sender, EventArgs e)
         {
             ListViewItem item = listView1.SelectedItems[i];
-            _controller.Remove(item.SubItems[0].Text, c);
+            _controller.Remove(item.SubItems[0].Text);
             _controller.ToListview(listView1, _controller);
             _controller.WriteFile(listView1);
         }
